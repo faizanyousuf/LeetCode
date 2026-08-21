@@ -78,4 +78,4 @@ class Solution {
          minLength = (found) ? minLength : -1;
         return minLength;
     }
-};
+}
